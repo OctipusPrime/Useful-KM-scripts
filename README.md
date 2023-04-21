@@ -27,7 +27,7 @@ As my responsibilities change, I am adjusting the set-up with Slack, Notion and 
 
 ## Quick app switcher
 
-The infamous [[80-20 rule]] comes with app use as well. Finding apps by names in Spotlight work pretty well, but with things one uses dozens times a day it is worth finding the fastest way possible. Here comes KM where I set up a keyboard shortcut which invokes my most used apps. 
+The [[80-20 rule]] comes with app use as well. Finding apps by names in Spotlight work pretty well, but with things one uses dozens times a day it is worth finding the fastest way possible. Here comes KM where I set up a keyboard shortcut which invokes my most used apps. 
 - Ctrl+S for Safari
 - Ctrl+V for VS code
 - Ctrl+O for Obsidian
