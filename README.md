@@ -1,7 +1,7 @@
 
 # Useful Keyboard Maestro macros
 
-Welcome to a showcase of my most used Keyboard Maestro shortcuts, which address my most often repeated (or sufficiently annoying) tasks. Keyboard Maestro is a powerful automation tool available exclusively on MacOS that enables users to automate repetitive tasks and streamline their workflow. With a vast library of available actions, Keyboard Maestro allows you to create custom shortcuts that can execute complex tasks with just a few keystrokes or be triggered by various events (such as widow of a specific app coming into focus). 
+These are some of my most used Keyboard Maestro shortcuts, which address my most often repeated (or sufficiently annoying) tasks. Keyboard Maestro is a powerful automation tool available exclusively on MacOS that enables users to automate repetitive tasks and streamline their workflow. With a vast library of available actions, Keyboard Maestro allows you to create custom shortcuts that can execute complex tasks with just a few keystrokes or be triggered by various events (such as widow of a specific app coming into focus). 
 
 I am only touching the surface of what Keyboard Maestro is capable of, there are many other actions and features it offers that I have yet to explore. There are many other third party apps on Mac which accomplish some of the following tasks, but few (if any) can do them all. 
 
